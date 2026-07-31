@@ -1,0 +1,41 @@
+.env
+.env.*
+application.properties
+application-*.properties
+secrets.properties
+**/secrets.properties
+SECRETS_SETUP.md
+reCAPTHCHAv2.txt
+.idea/
+**/.idea/
+target/
+**/target/
+uploads/
+**/uploads/
+build/
+**/build/
+.dart_tool/
+**/.dart_tool/
+MYSECRETS.txt
+New Text Document.txt
+TWILIO ACCOUNT.txt
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Maven wrapper cache (optional)
+.mvn/wrapper/maven-wrapper.jar
+
+# Java crash logs
+hs_err_pid*
+replay_pid*
+
+# VS Code
+.vscode/
+
+# IntelliJ module files
+*.iml

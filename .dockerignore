@@ -1,0 +1,32 @@
+# Git
+.git
+.gitignore
+
+# IDE
+.idea
+.vscode
+
+# Build output
+target
+build
+
+# Logs
+logs
+*.log
+
+# Local environment
+.env
+.env.*
+secrets.properties
+
+# Runtime data
+uploads
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Documentation
+README.md
+*.iml
+.DS_Store
