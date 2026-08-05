@@ -1,10 +1,6 @@
 services:
 
   backend:
-    build:
-      context: .
-      dockerfile: Dockerfile
-
     image: ibal/backend:1.0.0
     container_name: IBAL-backend
 
